@@ -1,18 +1,18 @@
 {
   "name": "ng-rollbar",
-  "version": "2.14.5",
+  "version": "2.15.0",
   "description": "Rollbar integration for angular",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tandibar/ng-rollbar.git"
+    "url": "https://github.com/Wisboo/ng-rollbar.git"
   },
   "author": "Andreas Bade",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tandibar/ng-rollbar/issues"
+    "url": "https://github.com/Wisboo/ng-rollbar/issues"
   },
-  "homepage": "https://github.com/tandibar/ng-rollbar",
+  "homepage": "https://github.com/Wisboo/ng-rollbar",
   "devDependencies": {
     "angular": "^1.5.5",
     "angular-mocks": "^1.5.5",
